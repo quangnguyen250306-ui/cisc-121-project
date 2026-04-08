@@ -65,7 +65,7 @@ with gr.Blocks() as demo:
         list_view = gr.Markdown("Click to generate list")
 
     with gr.Row():
-        target_input = gr.Number(label="Target")
+        target_input = gr.Textbox(label="Target")
         search_btn = gr.Button("Search")
 
     result = gr.Markdown("Waiting...")

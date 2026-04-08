@@ -68,19 +68,29 @@ Edge cases handled:
 All possible cases were tested to ensure correct behavior:
 
 - A valid target in the array  
-→ returns correct index and stops early  
+→ returns correct index and stops early
+
+![Alt text](https://github.com/quangnguyen250306-ui/cisc-121-project/blob/fd813f307e91dc3bf830c51f4387394c251d21e0/validtarget.png.png)
 
 - A valid target not in the array  
-→ searches entire list and returns not found  
+→ searches entire list and returns not found
+
+![Alt text](https://github.com/quangnguyen250306-ui/cisc-121-project/blob/fd813f307e91dc3bf830c51f4387394c251d21e0/invalidtarget.png.png)
 
 - An invalid target  
-→ displays an error message  
+→ displays an error message
+
+![Alt text](https://github.com/quangnguyen250306-ui/cisc-121-project/blob/fd813f307e91dc3bf830c51f4387394c251d21e0/invalidinput.png.png)
 
 - No array  
-→ prompts user to generate a list first  
+→ prompts user to generate a list first
+
+![Alt text](https://github.com/quangnguyen250306-ui/cisc-121-project/blob/fd813f307e91dc3bf830c51f4387394c251d21e0/Noarray.png.png)
 
 - Execution log  
-→ shows all steps clearly for user understanding  
+→ shows all steps clearly for user understanding
+
+![Alt text](https://github.com/quangnguyen250306-ui/cisc-121-project/blob/fd813f307e91dc3bf830c51f4387394c251d21e0/executionlog.png.png)
 
 *(You can insert screenshots here if needed)*
 

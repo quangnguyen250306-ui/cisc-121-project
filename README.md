@@ -4,7 +4,7 @@
 
 *(You can replace this with your own demo video link if needed)*
 
-I chose to implement linear search as it is the most fundamental searching algorithm. While it is simpler than binary search, it provides a clear and intuitive model for understanding how search operations work step-by-step.
+I chose to implement linear search as it is the most fundamental searching algorithm. While it is simpler than binary search, it provides a clear model to explain how search operations work step-by-step.
 
 The linear search algorithm, given a list and a target value, is performed as follows:
 - Start from the first element of the list.
@@ -20,14 +20,14 @@ The linear search algorithm, given a list and a target value, is performed as fo
 
 The goal is to create an app which someone can use to understand linear search. The application is designed to be simple, readable, and informative.
 
-The algorithm logic is separated from the UI logic to improve clarity. This allows users to focus on understanding how linear search works without needing to fully understand the interface implementation.
+The algorithm logic is separated from the UI logic to improve clarity. This allows users to focus on understanding how linear search works without understanding the interface implementation.
 
 The user interface displays each step of the algorithm, showing:
 - The index currently being checked
 - The value at that index
 - The result of the comparison
 
-This makes it clear how linear search scans the list sequentially.
+This makes it clear how linear search scans the list.
 
 ---
 

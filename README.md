@@ -2,8 +2,6 @@
 
 # Linear Search
 
-*(You can replace this with your own demo video link if needed)*
-
 I chose to implement linear search as it is the most fundamental searching algorithm. While it is simpler than binary search, it provides a clear model to explain how search operations work step-by-step.
 
 The linear search algorithm, given a list and a target value, is performed as follows:

@@ -88,4 +88,8 @@ All possible cases were tested to ensure correct behavior:
 
 ## How to run
 
-### Clone the repository and install gradio using pip with:
+Use this Hugging Face link to access the link: https://huggingface.co/spaces/Siu4Ronaldo/cisc-121-project/tree/main
+
+## Acknowledgement
+
+The implementation was in part coded by Grok and Gemini.
